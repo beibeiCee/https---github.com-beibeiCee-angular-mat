@@ -1,0 +1,50 @@
+{
+  "productList": [
+    {
+      "productName": "apple",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 133435,
+      "comment": "so fresh and so clean clean",
+      "date": "2022-07-30T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "cabbage",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 10,
+      "comment": "fresh",
+      "date": "2022-08-22T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "bell pepper",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 1235,
+      "comment": "asdfa",
+      "date": "2022-08-25T21:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "mango",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 234,
+      "comment": "lol",
+      "date": "2022-07-29T21:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
